@@ -112,7 +112,7 @@ p {
     transition: 0.4s ease-in-out;
 }
 
-.formulario-fale-conosco {
+/* .formulario-fale-conosco {
     background-color: white;
     display: flex;
     gap: 25px;
@@ -150,4 +150,4 @@ textarea {
     top: 0;
     width: 100vw;
     height: 100vh;
-}
+} */
