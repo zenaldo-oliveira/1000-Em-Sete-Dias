@@ -10,8 +10,6 @@
 Este é um projeto de desenvolvimento web responsivo, criado para proporcionar uma experiência de usuário otimizada em uma variedade de dispositivos e tamanhos de tela. Seja bem-vindo e explore nossa solução flexível e adaptável para criar interfaces atraentes em qualquer dispositivo!
 <p/>
  <h4>✅  Projeto disponivel ✅ <a href="https://zenaldo-oliveira.github.io/We-Care/"▶✅ >Super Mario</a></h4>
-<img src=""C:\Users\zenal\Pictures\Screenshots\Captura de tela 2024-03-28 112034.png alt="img-logo"/>
- <br>
- <br>
+<img src="https://github.com/zenaldo-oliveira/MIL-Reais-em-7-Dias/blob/main/assets/Captura%20de%20tela%202024-03-28%20104822.png?raw=true"="img-logo"/>
  <h1>✅ Projeto Responsivo✅ <h1>
 <img src="\Users\zenal\OneDrive\Área de Trabalho\Captura de tela 2024-03-28 110512.png" alt="logo-image"/>
